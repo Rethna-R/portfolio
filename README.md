@@ -36,6 +36,37 @@ This project was developed as part of **MERN Stack Internship – Task 2**, focu
 - Contact form (UI only)
 
 ---
+## 📂 Project Structure
+
+portfolio/
+├── public/
+│ └── resume.pdf
+├── screenshots/
+│ ├── desktopview/
+│ │ ├── img1.png
+│ │ ├── img2.png
+│ │ ├── img3.png
+│ │ ├── img4.png
+│ │ ├── img5.png
+│ │ ├── img6.png
+│ │ ├── img7.png
+│ │ ├── img8.png
+│ │ ├── img9.png
+│ │ └── img10.png
+│ └── mobileview/
+│ ├── img1.png
+│ ├── img2.png
+│ ├── img3.png
+│ ├── img4.png
+│ ├── img5.png
+│ └── img6.png
+├── src/
+│ ├── components/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+└── README.md
+
 
 ## 📸 Screenshots
 
@@ -70,48 +101,18 @@ This project was developed as part of **MERN Stack Internship – Task 2**, focu
 
 ---
 
-## 📂 Project Structure
-
-portfolio/
-├── public/
-│ └── resume.pdf
-├── screenshots/
-│ ├── desktopview/
-│ │ ├── img1.png
-│ │ ├── img2.png
-│ │ ├── img3.png
-│ │ ├── img4.png
-│ │ ├── img5.png
-│ │ ├── img6.png
-│ │ ├── img7.png
-│ │ ├── img8.png
-│ │ ├── img9.png
-│ │ └── img10.png
-│ └── mobileview/
-│ ├── img1.png
-│ ├── img2.png
-│ ├── img3.png
-│ ├── img4.png
-│ ├── img5.png
-│ └── img6.png
-├── src/
-│ ├── components/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-└── README.md
-
 
 ---
 
 ## 📦 Installation
 ```bash
-git clone <https://github.com/Rethna>
+git clone https://github.com/Rethna
 cd portfolio
 npm install
 npm run dev
 
+---
 
-## 👩‍🎓 Author
+👩‍🎓 Author
 Rethna
 B.Tech Information Technology
