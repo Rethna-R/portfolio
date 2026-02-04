@@ -106,10 +106,8 @@ portfolio/
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/Rethna
-cd portfolio
-npm install
-npm run dev
+git clone https://github.com/Rethna-R/portfolio
+
 
 ---
 
