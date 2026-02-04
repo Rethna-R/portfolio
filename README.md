@@ -113,6 +113,6 @@ npm run dev
 
 ---
 
-👩‍🎓 Author
+## 👩‍🎓 Author
 Rethna
 B.Tech Information Technology
