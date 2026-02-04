@@ -113,8 +113,8 @@ npm run dev
 
 ---
 
-## 👩‍🎓 Author
+👩‍🎓 Author
 
-# 🔹 **Rethna**
-## **B.Tech Information Technology**
-### **MERN Stack Intern**
+Rethna
+B.Tech Information Technology
+
