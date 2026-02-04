@@ -107,12 +107,13 @@ portfolio/
 ## 📦 Installation
 ```bash
 git clone https://github.com/Rethna-R/portfolio
-
+cd portfolio
+npm install
+npm run dev
 
 ---
 
 👩‍🎓 Author
-
 Rethna
 B.Tech Information Technology
 
